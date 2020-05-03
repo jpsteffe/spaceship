@@ -1,5 +1,5 @@
 # Spaceship
-Spaceship is the very old game that I made in highschool as one of my first programming projects. At the time I wasn't aware that I was making an Asteroids clone, but after it was pointed out to me, I reskinned the game with a space theme and that is how it got it's name.
+Spaceship is a very old game that I made in highschool as one of my first programming projects. At the time I wasn't aware that I was making an Asteroids clone, but after it was pointed out to me, I reskinned the game with a space theme and that is how it got it's name.
 
 ## Features
 The game in it's current state is playable with Python 2.7 and pygame, however some features were lost to time. 
